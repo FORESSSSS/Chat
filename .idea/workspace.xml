@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0fe33a1-4585-401b-a59d-2a54a7edc830" name="Changes" comment="Готов">
+    <list default="true" id="c0fe33a1-4585-401b-a59d-2a54a7edc830" name="Changes" comment="Тест прошел успешно">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChatServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,12 +82,20 @@
       <option name="project" value="LOCAL" />
       <updated>1685169591213</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Тест прошел успешно">
+      <created>1685170303242</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685170303242</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Старт" />
     <MESSAGE value="Готов" />
-    <option name="LAST_COMMIT_MESSAGE" value="Готов" />
+    <MESSAGE value="Тест прошел успешно" />
+    <option name="LAST_COMMIT_MESSAGE" value="Тест прошел успешно" />
   </component>
 </project>

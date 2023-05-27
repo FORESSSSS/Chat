@@ -36,7 +36,7 @@ public class Client implements Runnable {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        System.out.println();
+        System.out.println("Waiting...");
     }
 
     public void receive(int port, String message) {
