@@ -31,7 +31,7 @@ public class ChatServer {
                 Socket socket = serverSocket.accept();
                 System.out.println("Client Connected");
                 clients.add(new Client(socket, this));
-            } catch (IOException e) {
+            } catch (IOException e)  {
                 throw new RuntimeException(e);
             }
         }

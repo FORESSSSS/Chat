@@ -33,7 +33,7 @@ public class Client implements Runnable {
             System.out.println("Client Disconnected");
             socket.close();
             removeClientFromArray();
-        } catch (IOException e) {
+        } catch (IOException e)  {
             e.printStackTrace();
         }
         System.out.println("Waiting...");
