@@ -29,7 +29,7 @@ public class ChatServer {
             System.out.println("Waiting...");
             try {
                 Socket socket = serverSocket.accept();
-                System.out.println("ClientConnected");
+                System.out.println("Client Connected");
                 clients.add(new Client(socket, this));
             } catch (IOException e) {
                 throw new RuntimeException(e);
